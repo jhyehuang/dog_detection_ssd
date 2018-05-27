@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>BZBE2085.JPG</filename>
+	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images\BZBE2085.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2336</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zhuangzhuang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>1863</ymin>
+			<xmax>802</xmax>
+			<ymax>2386</ymax>
+		</bndbox>
+	</object>
+</annotation>

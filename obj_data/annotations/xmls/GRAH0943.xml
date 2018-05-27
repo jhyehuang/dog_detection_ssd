@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>GRAH0943.JPG</filename>
+	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images\GRAH0943.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>719</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zhuangzhuang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>365</ymin>
+			<xmax>684</xmax>
+			<ymax>723</ymax>
+		</bndbox>
+	</object>
+</annotation>

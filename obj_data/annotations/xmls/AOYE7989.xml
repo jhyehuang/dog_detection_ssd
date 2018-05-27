@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>AOYE7989.JPG</filename>
+	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images\AOYE7989.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2336</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zhuangzhuang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1056</xmin>
+			<ymin>1232</ymin>
+			<xmax>1629</xmax>
+			<ymax>1945</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>BAQZ2507.JPG</filename>
+	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images\BAQZ2507.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2336</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zhuangzhuang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>1386</ymin>
+			<xmax>2293</xmax>
+			<ymax>1945</ymax>
+		</bndbox>
+	</object>
+</annotation>
