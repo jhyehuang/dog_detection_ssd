@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
 	<filename>BZBE2085.JPG</filename>
-	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images\BZBE2085.JPG</path>
+	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images/BZBE2085.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2336</width>
-		<height>4160</height>
+		<width>1280</width>
+		<height>719</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>206</xmin>
-			<ymin>1863</ymin>
-			<xmax>802</xmax>
-			<ymax>2386</ymax>
+			<xmin>137</xmin>
+			<ymin>306</ymin>
+			<xmax>456</xmax>
+			<ymax>442</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,13 +1,13 @@
-<annotation verified="yes">
+<annotation>
 	<folder>images</folder>
 	<filename>BAQZ2507.JPG</filename>
-	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images\BAQZ2507.JPG</path>
+	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images/BAQZ2507.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2336</width>
-		<height>4160</height>
+		<width>1280</width>
+		<height>719</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>275</xmin>
-			<ymin>1386</ymin>
-			<xmax>2293</xmax>
-			<ymax>1945</ymax>
+			<xmin>207</xmin>
+			<ymin>227</ymin>
+			<xmax>1236</xmax>
+			<ymax>350</ymax>
 		</bndbox>
 	</object>
 </annotation>

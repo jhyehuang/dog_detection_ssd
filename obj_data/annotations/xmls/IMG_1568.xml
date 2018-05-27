@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
 	<filename>IMG_1568.JPG</filename>
-	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images\IMG_1568.JPG</path>
+	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images/IMG_1568.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>1280</width>
-		<height>960</height>
+		<height>719</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>267</xmin>
-			<ymin>205</ymin>
-			<xmax>535</xmax>
-			<ymax>464</ymax>
+			<xmin>276</xmin>
+			<ymin>145</ymin>
+			<xmax>572</xmax>
+			<ymax>458</ymax>
 		</bndbox>
 	</object>
 </annotation>

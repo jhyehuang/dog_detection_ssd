@@ -1,26 +1,26 @@
 <annotation>
 	<folder>images</folder>
 	<filename>IMG_1670.JPG</filename>
-	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images\IMG_1670.JPG</path>
+	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images/IMG_1670.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>6016</width>
-		<height>4000</height>
+		<width>1280</width>
+		<height>719</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>coin</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1045</xmin>
-			<ymin>37</ymin>
-			<xmax>4175</xmax>
-			<ymax>3946</ymax>
+			<xmin>249</xmin>
+			<ymin>14</ymin>
+			<xmax>848</xmax>
+			<ymax>719</ymax>
 		</bndbox>
 	</object>
 </annotation>

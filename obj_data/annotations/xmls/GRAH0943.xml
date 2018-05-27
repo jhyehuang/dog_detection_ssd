@@ -1,13 +1,13 @@
 <annotation>
 	<folder>images</folder>
 	<filename>GRAH0943.JPG</filename>
-	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images\GRAH0943.JPG</path>
+	<path>/home/zhijie.huang/github/dog_detection_ssd/obj_data/images/GRAH0943.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>719</width>
-		<height>1280</height>
+		<width>1280</width>
+		<height>719</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>162</xmin>
-			<ymin>365</ymin>
-			<xmax>684</xmax>
-			<ymax>723</ymax>
+			<xmin>288</xmin>
+			<ymin>198</ymin>
+			<xmax>1199</xmax>
+			<ymax>462</ymax>
 		</bndbox>
 	</object>
 </annotation>
